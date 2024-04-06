@@ -1,0 +1,2 @@
+# Traductor
+Version 1
